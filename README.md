@@ -17,6 +17,7 @@ CONTRACT_ADDRESS=
 ```bash
 go mod download
 ```
+## Usage
 
 ### Generating the Smart Contract ABI
 
